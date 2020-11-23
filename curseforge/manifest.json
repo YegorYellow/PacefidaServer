@@ -3,7 +3,7 @@
     "version": "1.16.4",
     "modLoaders": [
       {
-        "id": "forge-35.0.18",
+        "id": "forge-35.1.00",
         "primary": true
       }
     ]
@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Pacefida",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "mrhex2",
   "files": [
     {
@@ -31,7 +31,7 @@
     },
     {
       "projectID": 239197,
-      "fileID": 3115621,
+      "fileID": 3116045,
       "required": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
       "projectID": 301051,
-      "fileID": 3088871,
+      "fileID": 3117057,
       "required": true
     },
     {
@@ -71,7 +71,7 @@
     },
     {
       "projectID": 268495,
-      "fileID": 3111921,
+      "fileID": 3117600,
       "required": true
     },
     {
