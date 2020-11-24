@@ -21,6 +21,11 @@ function downlaod_file() {
 # https://www.curseforge.com/minecraft/mc-mods/security-craft/download/3109602/file
 downlaod_file "https://edge.forgecdn.net/files/3109/602/[1.16.4] SecurityCraft v1.8.20.2.jar"
 
+# projectID: 233019
+# AI Improvements (by DarkGuardsman)
+# https://www.curseforge.com/minecraft/mc-mods/ai-improvements/download/3031978/file
+downlaod_file "https://edge.forgecdn.net/files/3031/978/AI-Improvements-1.16.2-0.3.0.jar"
+
 # projectID: 280510
 # https://www.curseforge.com/minecraft/mc-mods/attributefix/download/3112152/file
 downlaod_file "https://edge.forgecdn.net/files/3112/152/AttributeFix-1.16.4-9.0.2.jar"
@@ -61,6 +66,11 @@ downlaod_file "https://edge.forgecdn.net/files/3098/223/CookingForBlockheads_1.1
 # https://www.curseforge.com/minecraft/mc-mods/crafttweaker/download/3116045/file
 downlaod_file "https://edge.forgecdn.net/files/3116/45/CraftTweaker-1.16.4-7.0.0.63.jar"
 
+# projectID: 371813
+# Crash Utilities (by Darkere)
+# https://www.curseforge.com/minecraft/mc-mods/crash-utilities/download/3069702/file
+downlaod_file "https://edge.forgecdn.net/files/3069/702/crashutilities-3.5.jar"
+
 # projectID: 362528
 # https://www.curseforge.com/minecraft/mc-mods/decorative-blocks/download/3113951
 downlaod_file "https://edge.forgecdn.net/files/3113/951/decorative_blocks-1.16.4-1.6.0.jar"
@@ -72,6 +82,21 @@ downlaod_file "https://edge.forgecdn.net/files/3110/694/DungeonCrawl-1.16.3-2.2.
 # projectID: 250832
 # https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator/download/3110386/file
 downlaod_file "https://edge.forgecdn.net/files/3110/386/elevatorid-1.16.4-1.7.8.jar"
+
+# projectID: 246320
+# Environmental Creepers (by masady)
+# https://www.curseforge.com/minecraft/mc-mods/environmental-creepers/download/3079511/file
+downlaod_file "https://edge.forgecdn.net/files/3079/511/environmentalcreepers-forge-1.16.3-1.6.0.jar"
+
+# projectID: 299540
+# FastFurnace (by Shadows_of_Fire)
+# https://www.curseforge.com/minecraft/mc-mods/fastfurnace/download/3069048/file
+downlaod_file "https://edge.forgecdn.net/files/3069/48/FastFurnace-1.16.3-4.3.0.jar"
+
+# projectID: 288885
+# FastWorkbench (by Shadows_of_Fire)
+# https://www.curseforge.com/minecraft/mc-mods/fastworkbench/download/3112661/file
+downlaod_file "https://edge.forgecdn.net/files/3112/661/FastWorkbench-1.16.3-4.4.1.jar"
 
 # projectID: 314904
 # https://www.curseforge.com/minecraft/mc-mods/ftb-backups/download/3038811/file
@@ -105,15 +130,25 @@ downlaod_file "https://edge.forgecdn.net/files/3100/510/Mekanism-1.16.4-10.0.17.
 # https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/download/3100512/file
 downlaod_file "https://edge.forgecdn.net/files/3100/512/MekanismGenerators-1.16.4-10.0.17.444.jar"
 
+# projectID: 69118
+# Morpheus (by Quetzi)
+# https://www.curseforge.com/minecraft/mc-mods/morpheus/download/3114135/file
+downlaod_file "https://edge.forgecdn.net/files/3114/135/Morpheus-1.16.4-4.2.68.jar"
+
 # projectID: 306770
 # https://www.curseforge.com/minecraft/mc-mods/patchouli/download/3086492/file
 downlaod_file "https://edge.forgecdn.net/files/3086/492/Patchouli-1.16.2-47.jar"
+
+# projectID: 283644
+# Placebo (by Shadows_of_Fire)
+# https://www.curseforge.com/minecraft/mc-mods/placebo/download/3092113/file
+downlaod_file "https://edge.forgecdn.net/files/3092/113/Placebo-1.16.3-4.3.3.jar"
 
 # projectID: 241665
 # https://www.curseforge.com/minecraft/mc-mods/psi/download/3106707/file
 downlaod_file "https://edge.forgecdn.net/files/3106/707/Psi 1.16-88.jar"
 
-# projectID: 301051
+# projectID: 243121
 # https://www.curseforge.com/minecraft/mc-mods/quark/download/3117057/file
 downlaod_file "https://edge.forgecdn.net/files/3117/57/Quark-r2.4-276.jar"
 
@@ -124,6 +159,11 @@ downlaod_file "https://edge.forgecdn.net/files/3088/871/QuarkOddities-1.16.3.jar
 # projectID: 296686
 # https://www.curseforge.com/minecraft/mc-mods/redstone-gauges-and-switches/download/3104034/file
 downlaod_file "https://edge.forgecdn.net/files/3104/34/rsgauges-1.16.4-1.2.6-b1.jar"
+
+# projectID: 291788
+# Server Tab Info (by black_dog20)
+# https://www.curseforge.com/minecraft/mc-mods/server-tab-info/download/3118698/file
+downlaod_file "https://edge.forgecdn.net/files/3118/698/ServerTabInfo-1.16.4-1.3.3.jar"
 
 # projectID: 320926
 # https://www.curseforge.com/minecraft/mc-mods/scalable-cats-force/download/3114280/file
@@ -152,6 +192,11 @@ downlaod_file "https://edge.forgecdn.net/files/3086/49/ToolBelt-1.16.3-1.15.2.ja
 # projectID: 225608
 # https://www.curseforge.com/minecraft/mc-mods/worldedit/download/3100516/file
 downlaod_file "https://edge.forgecdn.net/files/3100/516/worldedit-forge-mc1.16.3-7.2.0-dist.jar"
+
+# projectID: 388157
+# World Pre Generator (by GeheimagentNr1)
+# https://www.curseforge.com/minecraft/mc-mods/world-pre-generator/download/3101104/file
+downlaod_file "https://edge.forgecdn.net/files/3101/104/WorldPreGenerator-1.16.4-1.0.0.jar"
 
 # projectID: 344787
 # https://www.curseforge.com/minecraft/mc-mods/xp-tome/download/3031390/file
